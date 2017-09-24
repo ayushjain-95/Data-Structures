@@ -1,5 +1,5 @@
 /*
- * https://www.youtube.com/watch?v=v_wj_mOAlig
+ * Youtube link - https://www.youtube.com/watch?v=v_wj_mOAlig
  * Also called as Fenwik trees
  * It has 2 major parts :-
  * 1)Query -> Find the sum of elements from index l to r where 0 <= l <= r <= n-1  
